@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Marlon Hanks</h1>
+<h1 align="center">Hi 👋, I'm Marlon</h1>
 <h3 align="center">A passionate developer from the United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marlonhanks&label=Profile%20views&color=0e75b6&style=flat" alt="marlonhanks" /> </p>
