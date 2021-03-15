@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **marlonhanks/marlonhanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there 👋
 -->
 <h1 align="center">Hi 👋, I'm Marlon</h1>
 <h3 align="center">A passionate developer from the United States</h3>
