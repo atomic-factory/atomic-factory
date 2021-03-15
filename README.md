@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://core.tetcoin.org](https://core.tetcoin.org)
 
-- 📝 I regularly write articles on [decentralization](decentralization)
+- 📝 I regularly write articles on [decentralization](decentralization.md)
 
 - 💬 Ask me about **pro!**
 
