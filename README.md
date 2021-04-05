@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marlonhanks" alt="marlonhanks" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kediaco" target="blank"><img src="https://img.shields.io/twitter/follow/kediaco?logo=twitter&style=for-the-badge" alt="kediaco" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kediacorp" target="blank"><img src="https://img.shields.io/twitter/follow/kediacorp?logo=twitter&style=for-the-badge" alt="kediacorp" /></a> </p>
 
 - 🔭 I’m currently working on [Tetcore](https://github.com/tetcore)
 
