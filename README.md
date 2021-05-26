@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on [Litetokens](https://github.com/litetokens)
 
-- 🤝 I’m looking for help with [VaporDAO](https://github.com/vapordao)
+- 🤝 I’m looking for help with [VistaDAO](https://github.com/vistadao)
 
 - 👨‍💻 All of my projects are available at [https://core.tetcoin.org](https://core.tetcoin.org)
 
