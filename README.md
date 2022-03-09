@@ -51,4 +51,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marlonhanks&show_icons=true&locale=en" alt="marlonhanks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marlonhanks&" alt="marlonhanks" /></p>
-[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonhanks)](https://github.com/anuraghazra/github-readme-stats)
