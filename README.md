@@ -35,12 +35,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about **pro!**
 
 - 📫 How to reach me **support@tetcoin.org**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/marlonhanks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="marlonhanks" height="30" width="40" /></a>
-<a href="https://twitter.com/kediaco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kediaco" height="30" width="40" /></a>
-<a href="https://fb.com/marlon.hanks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="marlon.hanks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
