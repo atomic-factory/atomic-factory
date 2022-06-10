@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marlonhanks&show_icons=true&locale=en" alt="marlonhanks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marlonhanks" alt="marlonhanks" /></p>
+
+![Metrics](https://metrics.lecoq.io/marlonhanks?template=classic&isocalendar=1&people=1&activity=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FNew_York)
+
