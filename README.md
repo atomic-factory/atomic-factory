@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at **[https://core.tetcoin.org](https://core.tetcoin.org)**
 
-- 📝 I regularly write articles on [decentralization](decentralization.md)
+- 📝 I regularly write articles on **[The Dust Programming Language](https://github.com/dustlang)**
 
 - 💬 Ask me about **[The AtomicVM](https://github.com/atomicvm)**
 
