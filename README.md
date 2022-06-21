@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Tetcore](https://github.com/tetcore)
 
-- 👯 I’m looking to collaborate on [Litetokens](https://github.com/litetokens)
+- 👯 I’m looking to collaborate on [The Lite Protocol](https://github.com/liteprotocol)
 
 - 🤝 I’m looking for help with [MetroDAO](https://github.com/metrodao)
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [decentralization](decentralization.md)
 
-- 💬 Ask me about **pro!**
+- 💬 Ask me about **[The AtomicVM](https://github.com/atomicvm)**
 
 - 📫 How to reach me **support@tetcoin.org**
 </p>
