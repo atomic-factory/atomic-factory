@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/tetcoin" target="blank"><img src="https://img.shields.io/twitter/follow/tetcoin?logo=twitter&style=for-the-badge" alt="kediacorp" /></a> </p> 
 
 
-- 🔭 I’m currently working on [Tetcore](https://github.com/tetcore)
+- 🔭 I’m currently working on **[Tetcore](https://github.com/tetcore)**
 
-- 👯 I’m looking to collaborate on [The Lite Protocol](https://github.com/liteprotocol)
+- 👯 I’m looking to collaborate on **[The Lite Protocol](https://github.com/liteprotocol)**
 
-- 🤝 I’m looking for help with [MetroDAO](https://github.com/metrodao)
+- 🤝 I’m looking for help with **[MetroDAO](https://github.com/metrodao)**
 
-- 👨‍💻 All of my projects are available at [https://core.tetcoin.org](https://core.tetcoin.org)
+- 👨‍💻 All of my projects are available at **[https://core.tetcoin.org](https://core.tetcoin.org)**
 
 - 📝 I regularly write articles on [decentralization](decentralization.md)
 
