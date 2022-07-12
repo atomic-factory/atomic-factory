@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **[The AtomicVM](https://github.com/atomicvm)**
 
-- 📫 How to reach me **support@tetcoin.org**
+- 📫 How to reach me **support@dust.llc**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
